@@ -1,6 +1,6 @@
 {
   "name": "@tectonica/vm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "module": "dist/esm/index.js",
   "types": "dist/types/index.d.ts",
   "exports": {
@@ -30,7 +30,7 @@
     "publish-package": "pnpm publish --access public"
   },
   "dependencies": {
-    "quickjs-emscripten": "0.29.1"
+    "quickjs-emscripten": "0.32.0"
   },
   "devDependencies": {},
   "peerDependencies": {}
